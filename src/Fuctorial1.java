@@ -1,4 +1,4 @@
-public class daaaaa {
+public class Fuctorial1 {
     public static void main(String[] args) {
         System.out.println(fuct(17));
     }
